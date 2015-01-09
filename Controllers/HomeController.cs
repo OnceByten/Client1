@@ -10,7 +10,7 @@ namespace Client1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
+            ViewBag.Message = "";
 
             return View();
         }
