@@ -10,7 +10,7 @@ namespace Client1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "1";
+            ViewBag.Message = "2";
 
             return View();
         }
