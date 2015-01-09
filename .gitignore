@@ -16,7 +16,8 @@ x64/
 x86/
 build/
 bld/
-[Bb]in/
+[Bb]in/*
+![Bb]in/[Mm]y[Ss]ql.*
 [Oo]bj/
 
 # Roslyn cache directories
